@@ -1,14 +1,11 @@
 {
-  "name": "andreyryabin/sprint.migration",
-  "description": "bitrix migration module",
+  "name": "nsedenkov/sprint.migration",
+  "description": "migration module for 1C-Bitrix",
   "homepage": "http://marketplace.1c-bitrix.ru/solutions/sprint.migration/",
   "type": "bitrix-module",
   "keywords": [
     "bitrix",
-    "sprint",
-    "migration",
-    "andrey",
-    "ryabin"
+    "migration"
   ],
   "license": "MIT",
   "require": {
