@@ -1,5 +1,5 @@
 {
-  "name": "andreyryabin/sprint.migration",
+  "name": "nsedenkov/sprint.migration",
   "description": "migration module for 1C-Bitrix",
   "homepage": "http://marketplace.1c-bitrix.ru/solutions/sprint.migration/",
   "type": "bitrix-module",
